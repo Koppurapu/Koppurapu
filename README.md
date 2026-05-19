@@ -1,5 +1,5 @@
 # 💫 About Me:
-I was a student who got tired of just studying AI. So I started building it instead.<br>That shift changed everything.<br>Today, I'm a final-year B.Tech student in Artificial Intelligence at Anurag University, and I build things that actually work in the real world — not just in notebooks.<br>I trained a deep learning model that identifies cattle breeds from photos. I built a learning platform that adapts to how a student thinks, not just what they study. Every project I take on starts with one question: does this solve a real problem?<br>My stack is Python, React, Flask, AWS, Apache Kafka, and REST APIs. I'm comfortable taking an idea from model training all the way to a deployed, scalable API. I don't just learn technologies — I ship them.<br>Right now I'm actively looking for an internship or entry-level role in AI or Full-Stack development — somewhere I can contribute from day one, learn fast, and build things that matter.<br>If you're working on something meaningful, I want to be in that room.
+I was a student who got tired of just studying AI. So I started building it instead.<br>That shift changed everything.<br>Today, I'm a final-year B.Tech student in Artificial Intelligence at Anurag University, and I build things that actually work in the real world — not just in notebooks.
 
 
 ## 🌐 Socials:
